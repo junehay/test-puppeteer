@@ -1,0 +1,30 @@
+{
+  "name": "test-puppeteer",
+  "version": "1.0.0",
+  "description": "test use puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://junheay@github.com/junehay/test-puppeteer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junehay/test-puppeteer/issues"
+  },
+  "homepage": "https://github.com/junehay/test-puppeteer#readme",
+  "devDependencies": {
+    "@types/node": "^15.14.7",
+    "@typescript-eslint/eslint-plugin": "^4.29.2",
+    "@typescript-eslint/parser": "^4.29.2",
+    "eslint": "^7.32.0",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  }
+}
