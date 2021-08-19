@@ -1,3 +1,3 @@
-# test-puppeteer
+# test-scraping
 
-scraping github repositories using puppeteer
+scraping github repositories
